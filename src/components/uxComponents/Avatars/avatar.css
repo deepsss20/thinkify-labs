@@ -1,0 +1,18 @@
+.card-logo{
+    margin: 10px 20px 10px 10px;
+    background-color: #E54065;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.logo-font{
+    margin-top: 13px;
+}

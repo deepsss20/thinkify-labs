@@ -1,0 +1,54 @@
+.border-view{
+    margin-left: 10px;
+    border: solid #CFD2DC 1px;
+    display: flex;
+    flex: 1;
+    margin-top: 54px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.mail-card-logo{
+    margin: 10px 20px 10px 10px;
+    background-color: #E54065;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    font-weight: 600;
+}
+
+.logo-view{
+    padding:10px 10px
+}
+
+.text-spacing{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color:#636363;
+}
+
+.align-body{
+    flex:1
+}
+
+.text-button{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-align{
+    margin-top:10px;
+}
+
+.date-text{
+    padding-top: 15px;
+    color:#636363;
+}
+
+.text-align{
+    padding-top: 20px;
+}

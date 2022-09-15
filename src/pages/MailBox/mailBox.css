@@ -1,0 +1,13 @@
+.mailBox-parent{
+    display: flex;
+    flex:1;
+    flex-direction: row;
+}
+
+.mailBox-mail-list{
+    flex: 2;
+}
+
+.mailBox-body{
+    flex:4;
+}

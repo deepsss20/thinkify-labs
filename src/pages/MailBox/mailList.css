@@ -1,0 +1,21 @@
+.mail-list-header{
+    font-weight: 600;
+}
+
+.header-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.mail-section{
+    padding-top: 20px;
+}
+
+.page-section{
+    flex-direction: row;
+    display: flex;
+}
+
+.page-number{
+    margin: 0 5px;
+}

@@ -1,0 +1,48 @@
+.button-div{
+    padding:0px 20px;
+}
+
+.button-secondary{
+    padding:3px 7px;
+    font-size: 13px;
+}
+
+.button-secondary:hover{
+    cursor: pointer;
+}
+
+.button-secondary-active{
+    background-color:#E1E4EA ;
+    border-radius: 10px;
+}
+
+.button-secondary-text{
+    font-weight: 600;
+}
+
+
+.button-link-color{
+    color:#E54065;
+    font-weight: 600;
+}
+
+.primary-button-type{
+    background-color:#E54065;
+    color: white;
+    border: 1px solid #E54065;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    margin-right: 40px;
+}
+.primary-button-type:hover{
+    cursor: pointer;
+}
+
+.button-link-color:hover{
+    cursor: pointer;
+}
+
+.buton-link-active{
+    font-weight: bold;
+}
